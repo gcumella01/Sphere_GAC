@@ -1,0 +1,11 @@
+E:\Sphere_project1\Sphere_project1\obj\Debug\netcoreapp3.1\Sphere_project1.csprojAssemblyReference.cache
+E:\Sphere_project1\Sphere_project1\obj\Debug\netcoreapp3.1\Sphere_project1.AssemblyInfoInputs.cache
+E:\Sphere_project1\Sphere_project1\obj\Debug\netcoreapp3.1\Sphere_project1.AssemblyInfo.cs
+E:\Sphere_project1\Sphere_project1\bin\Debug\netcoreapp3.1\Sphere_project1.exe
+E:\Sphere_project1\Sphere_project1\bin\Debug\netcoreapp3.1\Sphere_project1.deps.json
+E:\Sphere_project1\Sphere_project1\bin\Debug\netcoreapp3.1\Sphere_project1.runtimeconfig.json
+E:\Sphere_project1\Sphere_project1\bin\Debug\netcoreapp3.1\Sphere_project1.runtimeconfig.dev.json
+E:\Sphere_project1\Sphere_project1\bin\Debug\netcoreapp3.1\Sphere_project1.dll
+E:\Sphere_project1\Sphere_project1\bin\Debug\netcoreapp3.1\Sphere_project1.pdb
+E:\Sphere_project1\Sphere_project1\obj\Debug\netcoreapp3.1\Sphere_project1.dll
+E:\Sphere_project1\Sphere_project1\obj\Debug\netcoreapp3.1\Sphere_project1.pdb
